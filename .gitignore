@@ -7,6 +7,5 @@ __pycache__/
 
 venv_new/
 
-.streamlit/
-
+.streamlit/secrets.toml
 dist/
